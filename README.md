@@ -7,6 +7,6 @@ JWT (JSON Web Token): Para autenticação e autorização.
 
 Entity Framework Core
 
-SQL Server / MySQL: Banco de dados.
+SQL Server
 
 Swagger: Para documentação e testes interativos da API.
